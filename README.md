@@ -22,3 +22,8 @@
 
 ![2006PID.gif](https://github.com/HuaisenTian/M2006-3508_motor_control_on_STM32F103/blob/main/pic_video/2006PID.gif)
 
+
+
+https://github.com/HuaisenTian/M2006-3508_motor_control_on_STM32F103/assets/74528894/7ddfec82-20fb-4e45-80ef-a62bb1446624
+
+

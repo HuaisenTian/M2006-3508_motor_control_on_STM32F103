@@ -14,11 +14,11 @@
 5. 2006电机
 6. C610电调
 
-![stm32f103.jpg](https://github.com/tianhuaisen/M2006-3508_motor_control_on_STM32F103/blob/main/pic_video/stm32f103.jpg)
+![stm32f103.jpg](https://github.com/HuaisenTian/M2006-3508_motor_control_on_STM32F103/blob/main/pic_video/stm32f103.jpg)
 
 
 
 ## 实机演示
 
-![2006PID.gif](https://github.com/tianhuaisen/M2006-3508_motor_control_on_STM32F103/blob/main/pic_video/2006PID.gif)
+![2006PID.gif](https://github.com/HuaisenTian/M2006-3508_motor_control_on_STM32F103/blob/main/pic_video/2006PID.gif)
 
